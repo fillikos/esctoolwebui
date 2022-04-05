@@ -1,2 +1,5 @@
 # Project exclude paths
 /out/
+Verteilung-Josh.bat
+Verteilung.bat
+.idea/
